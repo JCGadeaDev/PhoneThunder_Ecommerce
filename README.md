@@ -1,0 +1,11 @@
+# React + TypeScript + Vite
+
+Ecommerce de tienda en linea de celulares desarrollado en React
+
+# Herramientas utilizadas
+- React
+- Supabase
+- Tanstack Query
+- Zustand
+- React Hook Form
+- Zod
